@@ -1,18 +1,18 @@
 const letters = {
 
-  sad: "I know things feel heavy. You don’t have to carry it all alone. I’m here with you, even if it’s just through this message. You can always lean on me, I am always here for you. Even if it’s just for a moment, no need to explain or hesitate to come to me. I’m not going anywhere.",
+  sad: "I know things feel heavy and you don’t have to carry it all alone. I’m here with you, even if it’s just through this message. You can always lean on me, I am always here for you. Even if it’s just for a moment, no need to explain or hesitate to come to me. I’m not going anywhere.",
 
   miss: "I miss you too. Especially in the quiet moments where I wish you were here beside me. But even when we’re apart, I carry you with me in my heart. You’re always close, even when you can’t see it.",
 
   sleep: "Close your eyes. Breathe slowly. Imagine the calmest, comforting, or warmest moment you’ve had with me and stay there for a while. Let the warmth of that memory ease you into rest. I’m right there with you in that moment, holding you close hoping you get a good night's rest.",
 
-  happy: "I love seeing you like this. Please hold onto this feeling—it matters more than you think. And remember, I’m here celebrating with you, even if it’s just through this message. You deserve all the happiness in the world.",
+  happy: "I love seeing you like this. Please hold onto this feeling, it matters more than you think. And remember, I’m here celebrating with you, even if it’s just through this message. You deserve all the happiness in the world.",
 
   mad: "It’s okay to be angry. Just don’t let it turn into something you have to carry alone. Let it pass through you, not stay inside you. And when you’re ready, I’m here to listen without judgment. We can work through it together.",
 
   insecure: "Hard to imagine you will need to open this often but we are all human, everyone can feel this way. You don’t have to prove your worth to me or anyone else. The way I see you doesn’t change just because your mind gets loud sometimes. You are enough, just as you are, and I love you for it.",
 
-  frustrated: "Take a breath. Frustration can just be a sign that you care deeply about something. It’s okay to feel this way, but don’t let it consume you. You’re doing your best, and that’s all anyone can ask for. I’m here to support you through it.",
+  frustrated: "I think frustration can just be a sign that you care deeply about something. It’s okay to feel this way, but don’t let it consume you. You’re doing your best, and that’s all anyone can ask for. I’m here to support you through it.",
 
   overthinking: "Not every thought deserves your attention, I should kinow. Some are just noise pretending to be truth. You’re okay. You’re doing better than you think. Try to focus on what’s real and present, not the endless loop of 'what ifs'. I’m here with you, even in the silence of your thoughts.",
 
